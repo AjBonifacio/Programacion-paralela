@@ -18,7 +18,7 @@ namespace Simulación_de_un_Monoprocesador
         }
         public void ejecutarTarea()
         {
-            if (cola_tareas == null) {
+            if (cola_tareas != null) {
 
                 foreach (tarea tare in cola_tareas)
             {

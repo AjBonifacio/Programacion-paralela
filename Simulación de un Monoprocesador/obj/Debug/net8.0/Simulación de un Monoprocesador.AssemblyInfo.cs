@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulación de un Monoprocesador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4a0700b98fab2b835ea4080a6cfc6be8bae01b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulación de un Monoprocesador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulación de un Monoprocesador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
