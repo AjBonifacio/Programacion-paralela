@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxonomía de Flynn", "Taxonomía de Flynn.csproj", "{17AC0657-6ADE-436B-9C62-6DA2518AD9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AC0657-6ADE-436B-9C62-6DA2518AD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AC0657-6ADE-436B-9C62-6DA2518AD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AC0657-6ADE-436B-9C62-6DA2518AD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AC0657-6ADE-436B-9C62-6DA2518AD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B49E53-F840-43E4-BA38-D0EAFE1C1F8E}
+	EndGlobalSection
+EndGlobal

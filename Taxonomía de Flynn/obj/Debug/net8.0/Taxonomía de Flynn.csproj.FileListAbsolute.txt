@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\bin\Debug\net8.0\Taxonomía de Flynn.exe
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\bin\Debug\net8.0\Taxonomía de Flynn.deps.json
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\bin\Debug\net8.0\Taxonomía de Flynn.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\bin\Debug\net8.0\Taxonomía de Flynn.dll
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\bin\Debug\net8.0\Taxonomía de Flynn.pdb
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.dll
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\refint\Taxonomía de Flynn.dll
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.pdb
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\Taxonomía de Flynn.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\ITLA\C1-2025\programacion paralela\Taxonomía de Flynn\Taxonomía de Flynn\obj\Debug\net8.0\ref\Taxonomía de Flynn.dll
